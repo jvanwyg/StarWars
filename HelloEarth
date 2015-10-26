@@ -1,7 +1,7 @@
 # the comment
 
 FROM jvanwyg/jvanwyg
-RUN echo 'Hello World'
+RUN echo 'Hello Worrld'
 
 
 
